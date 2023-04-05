@@ -1,6 +1,5 @@
 # JavaScript Fundamentals
-This repository contains the basic fundamentals of JavaScript programming language. For a quick and short presentation of various concepts visit this [LINK]([https://www.example.com](https://pern-my.sharepoint.com/:p:/g/personal/osama_8631426_talmeez_pk/EXwR-8vf_OhIv7HHZ3vKalQBMarzTmDg_ws7W2RPkdgdxQ?e=6KWcWK) "LINK")
-. The code in this repository covers the following topics:
+This repository contains the basic fundamentals of JavaScript programming language. For a quick and short presentation of various concepts visit this [LINK](https://pern-my.sharepoint.com/:p:/g/personal/osama_8631426_talmeez_pk/EXwR-8vf_OhIv7HHZ3vKalQBMarzTmDg_ws7W2RPkdgdxQ?e=6KWcWK). The code in this repository covers the following topics:
 
 - [x] Introduction
 - [ ] Data Types
@@ -19,8 +18,14 @@ This repository contains the basic fundamentals of JavaScript programming langua
 - [ ] Arrays
 
 
-You can view the code in your browser by opening the HTML files in the each folder. Alternatively, you can copy and paste the code into your own text editor or development environment.
+You can view the code in your browser by opening the each of files in the each folder. Alternatively, you can copy and paste the code into your own text editor or development environment.
 
+You can run these code in any online or webbased JS compiler or Download Node.js from [here](https://nodejs.org). and after installation you can run the javascript via the below command on your terminal or command prompt
+```bash
+node filename.js 
+OR
+node path-to-file.js
+```
 
 ## Resources
 This repository includes links to external resources that can help you learn more about JavaScript. You can find these resources in the "resources" folder.
