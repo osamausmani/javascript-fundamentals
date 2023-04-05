@@ -4,6 +4,8 @@
 - [ ] Data Types
 - [ ] Variables
 - [ ] Conditional Statement
+-- [ ] IF/Else
+
 
 
 
