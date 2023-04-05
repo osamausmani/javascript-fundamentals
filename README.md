@@ -1,5 +1,6 @@
 # JavaScript Fundamentals
-This repository contains the basic fundamentals of JavaScript programming language. The code in this repository covers the following topics:
+This repository contains the basic fundamentals of JavaScript programming language. For a quick and short presentation of various concepts visit this [LINK]([https://www.example.com](https://pern-my.sharepoint.com/:p:/g/personal/osama_8631426_talmeez_pk/EXwR-8vf_OhIv7HHZ3vKalQBMarzTmDg_ws7W2RPkdgdxQ?e=6KWcWK) "LINK")
+. The code in this repository covers the following topics:
 
 - [x] Introduction
 - [ ] Data Types
