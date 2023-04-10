@@ -1,9 +1,3 @@
-// In this program, we start by initializing a variable num with the value 4. We then use an if-else statement to check if num is even or odd.
-
-// To check if a number is even, we use the modulus operator (%) to check if the remainder of num divided by 2 is equal to 0. If the remainder is 0, the number is even.
-
-// If the remainder is not 0, then the number must be odd. We use an else statement to print "The number is odd".
-
 // program to check if a number is even or odd
 let num = 4;
 
@@ -15,3 +9,9 @@ if (num % 2 === 0) {
 else {
     console.log("The number is odd");
 }
+
+// In this program, we start by initializing a variable num with the value 4. We then use an if-else statement to check if num is even or odd.
+
+// To check if a number is even, we use the modulus operator (%) to check if the remainder of num divided by 2 is equal to 0. If the remainder is 0, the number is even.
+
+// If the remainder is not 0, then the number must be odd. We use an else statement to print "The number is odd".
